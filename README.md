@@ -1,4 +1,6 @@
 # Olá, Mundo!
 primeiro repositorio do curso de git e 
 
-reppositório criado em uma aula ao vivo!
+repositório criado em uma aula ao vivo!
+
+Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
